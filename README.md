@@ -20,9 +20,9 @@
 <h4> 📈 My GitHub Stats </h4>
 <p align='center'>
   <a href="https://github.com/verssache/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verssache&layout=compact" alt="verssache's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=villaneuvo&show_icons=true&locale=en&layout=compact" alt="Villaneuvo's github stats"/>
   </a>
   <a href="https://github.com/verssache/">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=verssache&hide=issues&count_private=true&show_icons=true" alt="verssache's github stats" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=villaneuvo&show_icons=true&locale=en" alt="Villaneuvo's github stats" />
   </a>
 </p>
