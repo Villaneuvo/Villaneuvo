@@ -9,9 +9,9 @@
 
 - ⚡ Fun fact **I also love 3D Modelling, Blender is my powerfull tools to create the model**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammaddaffa-2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammaddaffa-2703" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daffa_reza_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammaddaffa-2703/)
 </p>
 
 <h4> ⚙ My Languages and Tools 4 </h4>
