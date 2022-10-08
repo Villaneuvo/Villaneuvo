@@ -19,10 +19,10 @@
 
 <h4> 📈 My GitHub Stats </h4>
 <p align='center'>
-  <a href="https://github.com/verssache/">
+  <a href="https://github.com/villaneuvo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=villaneuvo&show_icons=true&locale=en&layout=compact" alt="Villaneuvo's github stats"/>
   </a>
-  <a href="https://github.com/verssache/">
+  <a href="https://github.com/villaneuvo/">
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=villaneuvo&show_icons=true&locale=en" alt="Villaneuvo's github stats" />
   </a>
 </p>
