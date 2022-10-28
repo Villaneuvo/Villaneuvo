@@ -12,8 +12,9 @@
 - ⚡ Fun fact **I also love 3D Modelling, Blender is my powerfull tools to create the model**
 
 <h3 align="left">🤝 Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/muhammaddaffa-2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammaddaffa-2703" height="30" width="40" /></a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/muhammaddaffa-2703)
 </p>
 
 <h4> ⚙ My Languages and Tools </h4>
@@ -24,3 +25,6 @@
   <br> <br> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=villaneuvo&show_icons=true&theme=dark&locale=en" alt="villaneuvo" />
 </p>
+
+
+
